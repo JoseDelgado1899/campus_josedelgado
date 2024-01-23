@@ -1,0 +1,23 @@
+Algoritmo edades
+	Definir edad,promedio,edadmaxima,cantidadedades,sumaedades Como Entero
+	Escribir "ingresar edad: "
+	leer edad
+	Mientras edad>i Hacer
+		Si i = 1 o edad > edadmaxima Entonces
+			leer edad
+			cantidadedades<-cantidadedades+1
+			suma=edad+edad/cantidadedades
+			FinSi
+		Fin Mientras
+			Escribir "desea calcular el promedio (p) o calcular la edad maxima (m): "
+			leer opc
+			si opc = "p" Entonces
+				promedio=sumaedades/cantidadedades
+				Escribir "el promedio de la edad es: ", promedio
+			Si opc = "m" Entonces
+					Escribir "la edad maxima es: ", edadmaxima
+				FinSi
+			FinSi
+			
+		
+FinAlgoritmo
