@@ -1,0 +1,14 @@
+Pregunta 1: ¿Qué hace este pseudocódigo?
+rta: b) Imprime los números del 1 al 10.
+
+Pregunta: ¿Cuál es el resultado final del pseudocódigo?
+rta: a) 100
+
+Pregunta: ¿Qué estructura de control se utiliza para crear el bucle?
+rta: c) Mientras
+
+Pregunta: ¿Qué números se imprimirán como resultado?
+rta: c) Los divisores de 6..
+
+Pregunta: ¿Qué valor se imprime al final del proceso?
+rta: d) 123450
